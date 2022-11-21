@@ -66,7 +66,9 @@
         </figure>
         </section>
         <br>
-        <footer>creado con amor</footer>
+        <footer>
+            <p>creado con amor</p>
+            </footer>
         </main>
     </body>
 </htm>
